@@ -9,4 +9,7 @@ let number = 2; //This is number
 let Boolean = true; //This is boolean data type : it's either true or false 
 let Undefined = undefined; // This is undefined data type
 let Null =  null; // This is null data type
-console.log(String,number,Boolean,Undefined,Null);
+console.log(String,number,Boolean,Undefined,Null); // To print all of the data type to the console
+
+
+
